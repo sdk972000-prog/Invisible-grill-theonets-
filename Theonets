@@ -1,0 +1,1775 @@
+```html
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>THEO NETS Invisible Grill | Balcony Safety & Open Views</title>
+  <meta name="description" content="Discover THEO NETS invisible grill solutions for balconies and suitable residential openings in Coimbatore and Tamil Nadu. Explore pricing and request a quotation.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              red: '#E11D48',
+              redHover: '#BE123C',
+              obsidian: '#0C0E12',
+              charcoal: '#171A21',
+              ivory: '#FBF9F5',
+              ivoryMuted: '#F4EFEB',
+              grey: '#64748B',
+              border: '#E2E8F0',
+              borderDark: '#232834'
+            }
+          },
+          fontFamily: {
+            sans: ['Manrope', 'system-ui', 'sans-serif'],
+            serif: ['Playfair Display', 'Georgia', 'serif'],
+          }
+        }
+      }
+    };
+  </script>
+  <style>
+    /* Architectural Custom Elements */
+    ::selection {
+      background-color: #E11D48;
+      color: #FFFFFF;
+    }
+    
+    .text-balance {
+      text-wrap: balance;
+    }
+
+    /* Cable Lines Graphic Simulation */
+    .cables-grid {
+      background-image: repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.45) 0, rgba(255, 255, 255, 0.45) 1.5px, transparent 1.5px, transparent 42px);
+    }
+    .cables-grid-dark {
+      background-image: repeating-linear-gradient(90deg, rgba(200, 205, 215, 0.65) 0, rgba(200, 205, 215, 0.65) 1.5px, transparent 1.5px, transparent 42px);
+    }
+    .conventional-grill-pattern {
+      background-image: 
+        repeating-linear-gradient(90deg, #1f2937 0, #1f2937 12px, transparent 12px, transparent 70px),
+        repeating-linear-gradient(0deg, #111827 0, #111827 12px, transparent 12px, transparent 110px);
+    }
+
+    /* Smooth Slider Scrubber */
+    .no-select {
+      -webkit-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+
+    /* Subtle Glassmorphism */
+    .glass-nav {
+      background: rgba(12, 14, 18, 0.72);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+    }
+    .glass-light {
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+    }
+
+    /* Custom Transitions */
+    .fade-in-up {
+      animation: fadeInUp 0.9s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(24px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+<body class="bg-brand-ivory text-brand-obsidian font-sans antialiased selection:bg-brand-red selection:text-white relative overflow-x-hidden">
+
+  <!-- Top Utility Notice -->
+  <div class="bg-brand-obsidian text-white/80 text-xs py-2 px-4 border-b border-brand-borderDark/40 hidden md:block">
+    <div class="max-w-7xl mx-auto flex justify-between items-center tracking-wider uppercase text-[11px] font-medium">
+      <div class="flex items-center gap-4">
+        <span>Coimbatore &amp; Tamil Nadu</span>
+        <span class="text-brand-red">•</span>
+        <span>Architectural Invisible Grills</span>
+        <span class="text-brand-red">•</span>
+        <span class="text-emerald-400 font-semibold">Introductory Offer from ₹110 / sq. ft.*</span>
+      </div>
+      <div class="flex items-center gap-6">
+        <a href="tel:+918940354313" class="hover:text-white transition-colors flex items-center gap-1.5">
+          <svg class="w-3.5 h-3.5 text-brand-red" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+          +91 89403 54313
+        </a>
+        <a href="mailto:theonets28@gmail.com" class="hover:text-white transition-colors">theonets28@gmail.com</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION 1 — THE ELEGANT NAVIGATION -->
+  <header id="site-header" class="fixed top-0 left-0 right-0 z-50 transition-all duration-300 md:top-[33px]">
+    <nav class="max-w-7xl mx-auto px-5 sm:px-8 py-4 transition-all duration-300 flex items-center justify-between" id="nav-inner">
+      <!-- Logo -->
+      <a href="#hero" class="flex items-center gap-3 group focus:outline-none focus:ring-2 focus:ring-brand-red rounded-lg p-1">
+        <div class="w-10 h-10 rounded-lg bg-brand-obsidian border border-white/20 flex items-center justify-center shadow-lg group-hover:border-brand-red transition-colors">
+          <!-- Geometric Theo Nets Logo Mark -->
+          <div class="relative w-6 h-6 flex items-center justify-center">
+            <span class="font-extrabold text-white text-base tracking-tighter">TN</span>
+            <span class="absolute -top-1 -right-1 w-2 h-2 rounded-full bg-brand-red"></span>
+          </div>
+        </div>
+        <div class="flex flex-col">
+          <span class="text-xl font-extrabold tracking-tight text-white transition-colors" id="logo-text">THEO NETS</span>
+          <span class="text-[9px] uppercase tracking-[0.25em] text-gray-300 font-semibold" id="logo-sub">Invisible Grill</span>
+        </div>
+      </a>
+
+      <!-- Desktop Navigation Menu -->
+      <div class="hidden lg:flex items-center space-x-8 px-6 py-2.5 rounded-full border border-white/15 bg-brand-obsidian/40 backdrop-blur-md transition-colors" id="desktop-nav-pill">
+        <a href="#hero" class="text-sm font-medium text-white/90 hover:text-white transition-colors">Home</a>
+        <a href="#product-reveal" class="text-sm font-medium text-white/80 hover:text-white transition-colors">Invisible Grills</a>
+        <a href="#benefits" class="text-sm font-medium text-white/80 hover:text-white transition-colors">Benefits</a>
+        <a href="#applications" class="text-sm font-medium text-white/80 hover:text-white transition-colors">Applications</a>
+        <a href="#calculator" class="text-sm font-medium text-white/80 hover:text-white transition-colors">Pricing</a>
+        <a href="#faq" class="text-sm font-medium text-white/80 hover:text-white transition-colors">FAQs</a>
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="flex items-center gap-3">
+        <!-- Direct WhatsApp Link Button -->
+        <a href="https://wa.me/918940354313?text=Hi%20THEO%20NETS%2C%20I'm%20interested%20in%20invisible%20grills%20for%20my%20home.%20I'd%20like%20to%20know%20more%20about%20your%20solutions%20and%20request%20a%20quotation."
+           target="_blank"
+           rel="noopener noreferrer"
+           aria-label="Chat on WhatsApp"
+           class="hidden sm:inline-flex items-center gap-2 px-3.5 py-2.5 rounded-full bg-white/10 hover:bg-emerald-600/20 text-white border border-white/20 text-xs font-semibold tracking-wide transition-all duration-200">
+          <svg class="w-4 h-4 text-emerald-400 fill-current" viewBox="0 0 24 24"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.149.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.768-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.007c.106.005.249-.04.39.299.144.347.491 1.2.534 1.288.043.087.072.188.014.303-.058.116-.087.188-.173.289l-.26.303c-.087.087-.178.181-.077.355.101.174.449.742.963 1.201.662.591 1.221.774 1.394.86.173.087.275.072.376-.044.101-.116.433-.506.549-.679.116-.173.231-.144.39-.087s1.011.477 1.184.564.289.13.332.202c.044.073.044.419-.1 1.224z"/></svg>
+          <span class="hidden xl:inline text-white/90">WhatsApp Enquiry</span>
+        </a>
+
+        <!-- Primary CTA -->
+        <button onclick="openEnquiryModal('General Consultation')" class="px-5 py-2.5 rounded-full bg-brand-red hover:bg-brand-redHover text-white text-xs font-bold uppercase tracking-wider shadow-lg shadow-rose-900/30 transition-all duration-200 transform hover:-translate-y-0.5 active:translate-y-0 focus:outline-none focus:ring-2 focus:ring-white">
+          GET A FREE QUOTE
+        </button>
+
+        <!-- Mobile Menu Toggle Button -->
+        <button id="mobile-menu-btn" aria-label="Toggle menu" class="lg:hidden p-2 rounded-lg text-white bg-white/10 border border-white/20 focus:outline-none">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"/></svg>
+        </button>
+      </div>
+    </nav>
+
+    <!-- Mobile Drawer Menu -->
+    <div id="mobile-menu" class="hidden lg:hidden bg-brand-obsidian/95 border-b border-brand-borderDark px-6 py-6 transition-all duration-300 backdrop-blur-xl">
+      <div class="flex flex-col space-y-4">
+        <a href="#hero" class="mobile-nav-link text-lg font-medium text-white hover:text-brand-red py-2 border-b border-white/10">Home</a>
+        <a href="#product-reveal" class="mobile-nav-link text-lg font-medium text-white hover:text-brand-red py-2 border-b border-white/10">Invisible Grills</a>
+        <a href="#benefits" class="mobile-nav-link text-lg font-medium text-white hover:text-brand-red py-2 border-b border-white/10">Benefits</a>
+        <a href="#applications" class="mobile-nav-link text-lg font-medium text-white hover:text-brand-red py-2 border-b border-white/10">Applications</a>
+        <a href="#calculator" class="mobile-nav-link text-lg font-medium text-white hover:text-brand-red py-2 border-b border-white/10">Pricing Calculator</a>
+        <a href="#process" class="mobile-nav-link text-lg font-medium text-white hover:text-brand-red py-2 border-b border-white/10">How It Works</a>
+        <a href="#faq" class="mobile-nav-link text-lg font-medium text-white hover:text-brand-red py-2">FAQs</a>
+        <div class="pt-4 flex flex-col gap-3">
+          <a href="https://wa.me/918940354313?text=Hi%20THEO%20NETS%2C%20I'm%20interested%20in%20invisible%20grills%20for%20my%20home." target="_blank" rel="noopener noreferrer" class="w-full text-center py-3 rounded-full bg-emerald-600 text-white font-semibold text-sm flex items-center justify-center gap-2">
+            <span>Direct WhatsApp Chat</span>
+          </a>
+          <button onclick="openEnquiryModal('Mobile Header'); toggleMobileMenu();" class="w-full py-3 rounded-full bg-brand-red text-white font-bold text-sm uppercase tracking-wider">
+            GET A FREE QUOTE
+          </button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- SECTION 2 — THE CINEMATIC HERO -->
+  <section id="hero" class="relative min-h-screen flex items-center justify-center pt-28 pb-16 lg:py-0 overflow-hidden bg-brand-obsidian">
+    <!-- Atmospheric Architectural Balcony Background Image -->
+    <div class="absolute inset-0 z-0">
+      <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2160&q=85" 
+           alt="Luxury Modern Balcony with expansive lush open sky view" 
+           class="w-full h-full object-cover object-center filter brightness-90 saturate-[0.95] scale-105 transform motion-safe:transition-transform motion-safe:duration-1000">
+      <!-- Sophisticated Vignette & Text Contrast Gradients -->
+      <div class="absolute inset-0 bg-gradient-to-r from-brand-obsidian/95 via-brand-obsidian/75 to-transparent"></div>
+      <div class="absolute inset-0 bg-gradient-to-t from-brand-obsidian via-transparent to-brand-obsidian/50"></div>
+      
+      <!-- Visual Cable Overlay Simulation Representing the Invisible Grill Pattern -->
+      <div class="absolute right-0 top-0 bottom-0 w-full lg:w-2/3 pointer-events-none opacity-25 cables-grid"></div>
+    </div>
+
+    <!-- Hero Content Container -->
+    <div class="relative z-10 max-w-7xl mx-auto px-5 sm:px-8 w-full pt-12 md:pt-20">
+      <div class="max-w-2xl lg:max-w-3xl">
+        <!-- Eyebrow Tag -->
+        <div class="inline-flex items-center gap-2.5 px-3.5 py-1.5 rounded-full bg-white/10 border border-white/20 backdrop-blur-md mb-6">
+          <span class="w-2 h-2 rounded-full bg-brand-red animate-pulse"></span>
+          <span class="text-[11px] sm:text-xs font-bold uppercase tracking-[0.2em] text-white/90">PREMIUM INVISIBLE GRILL SOLUTIONS</span>
+        </div>
+
+        <!-- Main Headline -->
+        <h1 class="text-4xl sm:text-5xl lg:text-7xl font-extrabold text-white tracking-tight leading-[1.08] mb-6 text-balance">
+          Your View Deserves to <span class="font-serif italic font-normal text-rose-200">Stay Beautiful.</span>
+        </h1>
+
+        <!-- Supporting Headline -->
+        <p class="text-xl sm:text-2xl text-white/90 font-medium mb-4 leading-snug">
+          Safety for the ones you love. Freedom for the view you live for.
+        </p>
+
+        <!-- Body Copy -->
+        <p class="text-base sm:text-lg text-gray-300 font-normal leading-relaxed mb-8 max-w-xl">
+          Discover invisible grills designed to bring an added layer of protection to your balcony while preserving the open, airy beauty of your home.
+        </p>
+
+        <!-- CTAs -->
+        <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 mb-8">
+          <button onclick="openEnquiryModal('Hero Primary CTA')" class="px-8 py-4 rounded-full bg-brand-red hover:bg-brand-redHover text-white font-bold text-sm uppercase tracking-wider shadow-xl shadow-rose-950/40 transition-all duration-300 transform hover:-translate-y-1 active:translate-y-0 text-center">
+            GET MY FREE QUOTE
+          </button>
+          
+          <a href="#product-reveal" class="px-7 py-4 rounded-full bg-white/10 hover:bg-white/20 text-white border border-white/25 font-semibold text-sm tracking-wide transition-all duration-300 text-center backdrop-blur-sm flex items-center justify-center gap-2 group">
+            <span>DISCOVER THE DIFFERENCE</span>
+            <svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+          </a>
+        </div>
+
+        <!-- Supporting Micro Line & Pricing Badge -->
+        <div class="flex flex-wrap items-center gap-y-2 gap-x-4 text-xs text-gray-300 border-t border-white/15 pt-5">
+          <span class="flex items-center gap-2">
+            <svg class="w-4 h-4 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+            Designed for modern homes. Installed with care.
+          </span>
+          <span class="hidden sm:inline text-white/30">•</span>
+          <span class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded bg-brand-red/20 text-rose-200 border border-brand-red/30 font-semibold tracking-wide">
+            INTRODUCTORY OFFER · FROM ₹110/SQ. FT.*
+          </span>
+        </div>
+
+        <p class="text-[10px] text-gray-400 mt-2">
+          *Indicative pricing subject to measurement, specification, and terms.
+        </p>
+      </div>
+    </div>
+
+    <!-- Scroll Down Indicator -->
+    <a href="#brand-statement" aria-label="Scroll to content" class="absolute bottom-6 left-1/2 transform -translate-x-1/2 text-white/60 hover:text-white transition-colors flex flex-col items-center gap-1.5 z-10 hidden md:flex">
+      <span class="text-[10px] tracking-widest uppercase font-semibold">Scroll</span>
+      <svg class="w-4 h-4 animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/></svg>
+    </a>
+  </section>
+
+  <!-- SECTION 3 — THE BRAND STATEMENT -->
+  <section id="brand-statement" class="py-24 sm:py-32 bg-brand-ivory relative overflow-hidden">
+    <div class="max-w-7xl mx-auto px-5 sm:px-8">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-center">
+        <!-- Editorial Text Column (7 cols) -->
+        <div class="lg:col-span-7 space-y-6">
+          <div class="inline-flex items-center gap-2">
+            <span class="h-px w-8 bg-brand-red"></span>
+            <span class="text-xs font-extrabold uppercase tracking-[0.25em] text-brand-red">THE ART OF OPEN LIVING</span>
+          </div>
+
+          <h2 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-brand-obsidian leading-[1.18] text-balance">
+            Protection Should Never Come at the Cost of a <span class="font-serif italic font-normal text-rose-900">Beautiful View.</span>
+          </h2>
+
+          <div class="space-y-5 text-gray-700 text-base sm:text-lg leading-relaxed font-normal">
+            <p>
+              Your balcony is more than an extension of your home. It is where morning light enters, evenings slow down, and the world feels a little more open.
+            </p>
+            <p>
+              THEO NETS invisible grills are designed to help you enjoy that openness while adding a considered layer of protection to your living space.
+            </p>
+            <p>
+              Because the best safety solutions do their job without taking away what makes your home beautiful.
+            </p>
+          </div>
+
+          <!-- Editorial Highlight Block -->
+          <div class="pt-4 border-l-2 border-brand-red pl-5 my-6">
+            <blockquote class="text-xl sm:text-2xl font-serif italic text-brand-obsidian font-medium">
+              “Keep the view. Bring home peace of mind.”
+            </blockquote>
+            <p class="text-xs uppercase tracking-widest text-gray-500 font-semibold mt-2">THEO NETS Design Philosophy</p>
+          </div>
+
+          <!-- Regional Assurance Badge -->
+          <div class="pt-2 flex items-center gap-3 text-sm text-gray-600 font-medium">
+            <svg class="w-5 h-5 text-emerald-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+            <span>Proudly serving homeowners, apartments &amp; architects across Coimbatore &amp; Tamil Nadu.</span>
+          </div>
+        </div>
+
+        <!-- Architectural Image Column (5 cols) -->
+        <div class="lg:col-span-5 relative">
+          <div class="relative rounded-2xl overflow-hidden shadow-2xl bg-white border border-gray-200">
+            <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80" 
+                 alt="Architectural modern apartment showing morning sunlight and expansive clear view" 
+                 class="w-full h-[480px] object-cover object-center filter saturate-[0.95] hover:scale-105 transition-transform duration-700">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
+            
+            <!-- Graphic cable illustration on image border -->
+            <div class="absolute inset-y-0 right-4 w-12 cables-grid opacity-30 pointer-events-none"></div>
+
+            <div class="absolute bottom-6 left-6 right-6 text-white">
+              <span class="text-[10px] uppercase font-bold tracking-widest text-rose-300">Architectural Standard</span>
+              <p class="text-sm font-medium mt-1 text-white/90">Slender vertical high-tensile cables engineered to disappear from 2 meters away.</p>
+            </div>
+          </div>
+
+          <!-- Floating Accent Badge -->
+          <div class="absolute -bottom-6 -left-6 bg-brand-obsidian text-white p-5 rounded-xl shadow-xl hidden sm:block border border-white/10 max-w-xs">
+            <div class="flex items-center gap-3">
+              <div class="w-9 h-9 rounded-full bg-brand-red/20 text-brand-red flex items-center justify-center font-bold">✓</div>
+              <div>
+                <p class="text-xs uppercase tracking-wider font-bold text-gray-400">Zero Visual Heavy Metal</p>
+                <p class="text-sm font-semibold text-white">Maximized Natural Airflow</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 4 — THE PRODUCT REVEAL & INTERACTIVE COMPARISON -->
+  <section id="product-reveal" class="py-24 bg-white relative border-t border-b border-gray-200">
+    <div class="max-w-7xl mx-auto px-5 sm:px-8">
+      <!-- Section Header -->
+      <div class="max-w-3xl mx-auto text-center mb-14">
+        <span class="text-xs font-extrabold uppercase tracking-[0.25em] text-brand-red inline-block mb-3">INTRODUCING THE INVISIBLE GRILL</span>
+        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-brand-obsidian tracking-tight mb-4">
+          Almost Invisible. Thoughtfully Designed.
+        </h2>
+        <p class="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
+          Fine vertical cables create a discreet barrier across suitable balcony and window openings, helping preserve the open feel of your space without the visual heaviness of conventional grills.
+        </p>
+      </div>
+
+      <!-- INTERACTIVE BEFORE/AFTER BALCONY COMPARISON SLIDER -->
+      <div class="max-w-5xl mx-auto mb-16">
+        <div class="bg-brand-ivory rounded-3xl p-4 sm:p-6 shadow-xl border border-gray-200">
+          <div class="flex flex-col sm:flex-row justify-between items-center mb-4 gap-2 text-xs font-semibold tracking-wider uppercase text-gray-500">
+            <span class="flex items-center gap-2">
+              <span class="w-3 h-3 rounded-full bg-gray-600"></span>
+              Slide horizontally to compare
+            </span>
+            <div class="flex items-center gap-4">
+              <span class="text-brand-obsidian font-bold">← CONVENTIONAL HEAVY GRILL</span>
+              <span class="text-brand-red font-bold">THEO NETS INVISIBLE GRILL →</span>
+            </div>
+          </div>
+
+          <!-- Slider Container -->
+          <div id="comparison-container" class="relative w-full h-[360px] sm:h-[480px] md:h-[540px] rounded-2xl overflow-hidden no-select shadow-inner cursor-ew-resize border border-gray-300">
+            
+            <!-- Side A: Invisible Grill Look (Full Image underlay) -->
+            <div class="absolute inset-0 w-full h-full">
+              <!-- Premium Open Balcony Image with Delicate Cable Overlay -->
+              <img src="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1600&q=80" 
+                   alt="Balcony with THEO NETS Invisible Grill, open expansive sunny sky" 
+                   class="w-full h-full object-cover object-center">
+              
+              <!-- Simulated Delicate Vertical Cables -->
+              <div class="absolute inset-0 cables-grid opacity-75 pointer-events-none"></div>
+
+              <!-- Top Label -->
+              <div class="absolute top-5 right-5 z-10 px-4 py-2 rounded-full bg-brand-obsidian/85 text-white text-xs font-bold uppercase tracking-wider backdrop-blur-md border border-white/20 shadow-md">
+                THE INVISIBLE GRILL LOOK
+              </div>
+
+              <!-- Bottom Feature Pill -->
+              <div class="absolute bottom-6 right-6 z-10 px-4 py-2 rounded-xl bg-white/95 text-brand-obsidian text-xs font-medium shadow-lg hidden sm:block max-w-xs border border-gray-200">
+                <span class="text-emerald-600 font-bold">✓ Preserved Panoramic View</span>
+                <p class="text-[11px] text-gray-500 mt-0.5">High-tensile, nylon-sleeved marine grade vertical stainless cables.</p>
+              </div>
+            </div>
+
+            <!-- Side B: Conventional Look (Clipped Overlay) -->
+            <div id="conventional-layer" class="absolute inset-0 top-0 left-0 h-full overflow-hidden w-1/2">
+              <div class="absolute inset-0 w-full h-full" style="width: 1000px; max-width: none;" id="conventional-img-wrapper">
+                <img src="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1600&q=80" 
+                     alt="Balcony with conventional heavy obstructive metal bars" 
+                     class="w-full h-full object-cover object-center filter brightness-90 contrast-110">
+                
+                <!-- Obstructive Conventional Metal Grid Pattern -->
+                <div class="absolute inset-0 conventional-grill-pattern opacity-80 pointer-events-none"></div>
+                <div class="absolute inset-0 bg-black/20 pointer-events-none"></div>
+              </div>
+
+              <!-- Top Label for Conventional -->
+              <div class="absolute top-5 left-5 z-10 px-4 py-2 rounded-full bg-gray-900/90 text-white text-xs font-bold uppercase tracking-wider backdrop-blur-md border border-gray-600 shadow-md">
+                THE CONVENTIONAL LOOK
+              </div>
+
+              <!-- Bottom Feature Pill for Conventional -->
+              <div class="absolute bottom-6 left-6 z-10 px-4 py-2 rounded-xl bg-black/80 text-white text-xs font-medium shadow-lg hidden sm:block max-w-xs border border-white/10">
+                <span class="text-rose-400 font-bold">⚠ Heavy Cage Effect</span>
+                <p class="text-[11px] text-gray-300 mt-0.5">Bulky iron squares block fresh light and feel restrictive.</p>
+              </div>
+            </div>
+
+            <!-- Center Slider Divider Line & Handle -->
+            <div id="slider-handle" class="absolute top-0 bottom-0 left-1/2 w-1 bg-white cursor-ew-resize z-20 shadow-[0_0_15px_rgba(0,0,0,0.6)] transform -translate-x-1/2 flex items-center justify-center" tabindex="0" role="slider" aria-label="Comparison slider" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+              <div class="w-10 h-10 rounded-full bg-brand-obsidian border-2 border-white flex items-center justify-center shadow-xl text-white">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M8 9l4-4 4 4m0 6l-4 4-4-4"/></svg>
+              </div>
+            </div>
+          </div>
+          
+          <p class="text-center text-xs text-gray-400 mt-3">Touch and drag across the image or use left/right arrow keys to inspect the contrast.</p>
+        </div>
+      </div>
+
+      <!-- Three Concise Sub-Benefits Below Comparison -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto mb-12">
+        <div class="p-6 rounded-2xl bg-brand-ivory border border-gray-200">
+          <div class="w-10 h-10 rounded-xl bg-brand-obsidian text-white flex items-center justify-center font-bold text-sm mb-4">
+            01
+          </div>
+          <h3 class="text-lg font-bold text-brand-obsidian mb-2">A lighter visual footprint</h3>
+          <p class="text-sm text-gray-600 leading-relaxed">
+            Enjoy a more open architectural appearance that complements clean contemporary interior spaces.
+          </p>
+        </div>
+
+        <div class="p-6 rounded-2xl bg-brand-ivory border border-gray-200">
+          <div class="w-10 h-10 rounded-xl bg-brand-red text-white flex items-center justify-center font-bold text-sm mb-4">
+            02
+          </div>
+          <h3 class="text-lg font-bold text-brand-obsidian mb-2">A view that remains the hero</h3>
+          <p class="text-sm text-gray-600 leading-relaxed">
+            Let the sky, greenery, and skyline remain the focal point of your morning coffee and evening gatherings.
+          </p>
+        </div>
+
+        <div class="p-6 rounded-2xl bg-brand-ivory border border-gray-200">
+          <div class="w-10 h-10 rounded-xl bg-brand-obsidian text-white flex items-center justify-center font-bold text-sm mb-4">
+            03
+          </div>
+          <h3 class="text-lg font-bold text-brand-obsidian mb-2">A solution designed for your space</h3>
+          <p class="text-sm text-gray-600 leading-relaxed">
+            Choose a configuration based on the opening, intended use, and installation requirements of your home.
+          </p>
+        </div>
+      </div>
+
+      <!-- Action Button -->
+      <div class="text-center">
+        <a href="#applications" class="inline-flex items-center gap-2 px-8 py-4 rounded-full bg-brand-obsidian hover:bg-black text-white text-xs font-bold uppercase tracking-wider transition-all duration-200 shadow-md">
+          <span>SEE WHAT SUITS MY HOME</span>
+          <svg class="w-4 h-4 text-brand-red" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 5 — THE THREE SIGNATURE BENEFITS -->
+  <section id="benefits" class="py-24 sm:py-32 bg-brand-ivory">
+    <div class="max-w-7xl mx-auto px-5 sm:px-8">
+      <div class="max-w-2xl mb-16">
+        <span class="text-xs font-extrabold uppercase tracking-[0.25em] text-brand-red inline-block mb-3">ENGINEERED FOR HOMEOWNERS</span>
+        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-brand-obsidian tracking-tight">
+          Thoughtful Engineering. Uncompromised Elegance.
+        </h2>
+      </div>
+
+      <!-- 3-Column Layout with Distinct Imagery & Concise Copy -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 lg:gap-10 mb-12">
+        <!-- Benefit 1 -->
+        <div class="flex flex-col bg-white rounded-2xl overflow-hidden border border-gray-200 shadow-sm hover:shadow-md transition-shadow group">
+          <div class="h-60 overflow-hidden relative">
+            <img src="https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80" 
+                 alt="Peace of Mind in Family Home Balcony" 
+                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+            <div class="absolute bottom-4 left-4">
+              <span class="px-2.5 py-1 rounded bg-white/90 text-brand-obsidian font-bold text-[10px] uppercase tracking-wider">Safety &amp; Care</span>
+            </div>
+          </div>
+          <div class="p-7 flex flex-col flex-1">
+            <h3 class="text-xl font-bold text-brand-obsidian mb-3 leading-snug">
+              Peace of Mind, Built Around Your Home.
+            </h3>
+            <p class="text-gray-600 text-sm leading-relaxed mb-4 flex-1">
+              Add a thoughtfully designed protective barrier to suitable balcony and window openings, with professional installation and attention to the needs of your space.
+            </p>
+            <div class="text-xs text-brand-red font-semibold uppercase tracking-wider flex items-center gap-1">
+              <span>Secure Anchoring</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Benefit 2 -->
+        <div class="flex flex-col bg-white rounded-2xl overflow-hidden border border-gray-200 shadow-sm hover:shadow-md transition-shadow group">
+          <div class="h-60 overflow-hidden relative">
+            <img src="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80" 
+                 alt="Keep the Beauty of the Open View" 
+                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+            <div class="absolute bottom-4 left-4">
+              <span class="px-2.5 py-1 rounded bg-white/90 text-brand-obsidian font-bold text-[10px] uppercase tracking-wider">Unrestricted Light</span>
+            </div>
+          </div>
+          <div class="p-7 flex flex-col flex-1">
+            <h3 class="text-xl font-bold text-brand-obsidian mb-3 leading-snug">
+              Keep the Beauty of the Open View.
+            </h3>
+            <p class="text-gray-600 text-sm leading-relaxed mb-4 flex-1">
+              Fine cables and a visually discreet design help your architecture, greenery, and natural light remain at the center of the experience.
+            </p>
+            <div class="text-xs text-brand-red font-semibold uppercase tracking-wider flex items-center gap-1">
+              <span>High Light Permeability</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Benefit 3 -->
+        <div class="flex flex-col bg-white rounded-2xl overflow-hidden border border-gray-200 shadow-sm hover:shadow-md transition-shadow group">
+          <div class="h-60 overflow-hidden relative">
+            <img src="https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=800&q=80" 
+                 alt="Made for Modern Living" 
+                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+            <div class="absolute bottom-4 left-4">
+              <span class="px-2.5 py-1 rounded bg-white/90 text-brand-obsidian font-bold text-[10px] uppercase tracking-wider">Custom Tailoring</span>
+            </div>
+          </div>
+          <div class="p-7 flex flex-col flex-1">
+            <h3 class="text-xl font-bold text-brand-obsidian mb-3 leading-snug">
+              Made for Modern Living.
+            </h3>
+            <p class="text-gray-600 text-sm leading-relaxed mb-4 flex-1">
+              From apartment balconies to suitable residential windows, explore configurations designed to complement the look and practical requirements of your home.
+            </p>
+            <div class="text-xs text-brand-red font-semibold uppercase tracking-wider flex items-center gap-1">
+              <span>Tailored Spacing</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Small supporting line below the three benefits & CTA -->
+      <div class="text-center max-w-xl mx-auto space-y-5">
+        <p class="text-sm font-medium text-gray-700 italic">
+          “Every opening is different. The right design starts with the right measurements.”
+        </p>
+        <button onclick="openEnquiryModal('Installation Planning')" class="px-8 py-3.5 rounded-full bg-brand-red hover:bg-brand-redHover text-white text-xs font-bold uppercase tracking-wider shadow-lg shadow-rose-900/20 transition-all duration-200">
+          LET'S PLAN MY INSTALLATION
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 6 — THE MAGIC OF EVERYDAY LIFE -->
+  <section class="py-24 sm:py-32 bg-brand-obsidian text-white relative overflow-hidden">
+    <!-- Atmospheric Ambient Background Graphic -->
+    <div class="absolute inset-0 z-0">
+      <img src="https://images.unsplash.com/photo-1533779283484-8da4941aa34e?auto=format&fit=crop&w=2000&q=85" 
+           alt="Calm morning coffee on a balcony with expansive green foliage view" 
+           class="w-full h-full object-cover object-center filter brightness-[0.4] saturate-[0.8]">
+      <div class="absolute inset-0 bg-gradient-to-t from-brand-obsidian via-brand-obsidian/70 to-brand-obsidian/90"></div>
+    </div>
+
+    <div class="relative z-10 max-w-5xl mx-auto px-5 sm:px-8 text-center">
+      <span class="text-xs font-extrabold uppercase tracking-[0.3em] text-rose-300 inline-block mb-4">A LITTLE MORE ROOM TO BREATHE</span>
+
+      <h2 class="text-3xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight mb-8 text-balance">
+        Make Room for More <span class="font-serif italic font-normal text-rose-200">Beautiful Moments.</span>
+      </h2>
+
+      <div class="max-w-2xl mx-auto space-y-4 text-gray-300 text-base sm:text-lg leading-relaxed mb-8">
+        <p>
+          Slow mornings. Golden evenings. Fresh air moving through your home. The simple pleasure of looking out and feeling connected to the world beyond your walls.
+        </p>
+        <p>
+          Your home should feel open, welcoming, and thoughtfully protected.
+        </p>
+        <p class="text-white font-medium">
+          THEO NETS helps you preserve the feeling you fell in love with when you chose your home.
+        </p>
+      </div>
+
+      <!-- Prominent Statement Badge -->
+      <div class="inline-block py-3 px-6 rounded-full bg-white/10 border border-white/20 backdrop-blur-md mb-10">
+        <span class="text-sm sm:text-base font-semibold text-rose-100">
+          Less visual clutter. More of the view you love.
+        </span>
+      </div>
+
+      <div>
+        <button onclick="openEnquiryModal('Everyday Living Experience')" class="px-9 py-4 rounded-full bg-brand-red hover:bg-brand-redHover text-white text-xs font-bold uppercase tracking-wider shadow-2xl shadow-rose-950/60 transition-all duration-200 transform hover:-translate-y-0.5">
+          MAKE MY HOME FEEL MORE OPEN
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 7 — DESIGNED FOR DIFFERENT HOMES -->
+  <section id="applications" class="py-24 sm:py-32 bg-brand-ivory">
+    <div class="max-w-7xl mx-auto px-5 sm:px-8">
+      <div class="max-w-3xl mb-16">
+        <span class="text-xs font-extrabold uppercase tracking-[0.25em] text-brand-red inline-block mb-3">ONE DESIGN PHILOSOPHY. DIFFERENT SPACES.</span>
+        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-brand-obsidian tracking-tight mb-4">
+          A Better Fit for the Way You Live.
+        </h2>
+        <p class="text-base sm:text-lg text-gray-600 leading-relaxed">
+          Explore invisible grill solutions for the spaces that matter most.
+        </p>
+      </div>
+
+      <!-- 4 Visually Distinct Image Tiles -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        
+        <!-- Tile 1 — Apartment Balconies -->
+        <div class="bg-white rounded-2xl overflow-hidden border border-gray-200 shadow-sm flex flex-col group hover:shadow-xl transition-all duration-300">
+          <div class="h-56 overflow-hidden relative">
+            <img src="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=700&q=80" 
+                 alt="Apartment Balconies Invisible Grill" 
+                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
+            <span class="absolute bottom-3 left-4 text-xs font-bold text-white uppercase tracking-wider">Balconies</span>
+          </div>
+          <div class="p-6 flex flex-col flex-1 justify-between space-y-4">
+            <div>
+              <h3 class="text-lg font-bold text-brand-obsidian mb-2">Apartment Balconies</h3>
+              <p class="text-sm text-gray-600 leading-relaxed">
+                Preserve your open skyline views with a discreet grill solution designed around your balcony.
+              </p>
+            </div>
+            <button onclick="openEnquiryModal('Apartment Balconies')" class="w-full py-2.5 rounded-xl bg-brand-ivory hover:bg-brand-red hover:text-white text-brand-obsidian font-bold text-xs uppercase tracking-wider border border-gray-300 transition-colors">
+              ENQUIRE FOR MY BALCONY
+            </button>
+          </div>
+        </div>
+
+        <!-- Tile 2 — Independent Homes -->
+        <div class="bg-white rounded-2xl overflow-hidden border border-gray-200 shadow-sm flex flex-col group hover:shadow-xl transition-all duration-300">
+          <div class="h-56 overflow-hidden relative">
+            <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=700&q=80" 
+                 alt="Independent Homes Villa Balcony" 
+                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
+            <span class="absolute bottom-3 left-4 text-xs font-bold text-white uppercase tracking-wider">Villas &amp; Homes</span>
+          </div>
+          <div class="p-6 flex flex-col flex-1 justify-between space-y-4">
+            <div>
+              <h3 class="text-lg font-bold text-brand-obsidian mb-2">Independent Homes</h3>
+              <p class="text-sm text-gray-600 leading-relaxed">
+                Complement your home's architecture with a practical, considered approach to balcony and opening protection.
+              </p>
+            </div>
+            <button onclick="openEnquiryModal('Independent Homes')" class="w-full py-2.5 rounded-xl bg-brand-ivory hover:bg-brand-red hover:text-white text-brand-obsidian font-bold text-xs uppercase tracking-wider border border-gray-300 transition-colors">
+              EXPLORE HOME SOLUTIONS
+            </button>
+          </div>
+        </div>
+
+        <!-- Tile 3 — Windows -->
+        <div class="bg-white rounded-2xl overflow-hidden border border-gray-200 shadow-sm flex flex-col group hover:shadow-xl transition-all duration-300">
+          <div class="h-56 overflow-hidden relative">
+            <img src="https://images.unsplash.com/photo-1509644851169-2acc08aa25b5?auto=format&fit=crop&w=700&q=80" 
+                 alt="Residential Windows Invisible Grill" 
+                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
+            <span class="absolute bottom-3 left-4 text-xs font-bold text-white uppercase tracking-wider">Windows</span>
+          </div>
+          <div class="p-6 flex flex-col flex-1 justify-between space-y-4">
+            <div>
+              <h3 class="text-lg font-bold text-brand-obsidian mb-2">Windows</h3>
+              <p class="text-sm text-gray-600 leading-relaxed">
+                Explore suitable invisible grill configurations for residential window openings.
+              </p>
+            </div>
+            <button onclick="openEnquiryModal('Windows')" class="w-full py-2.5 rounded-xl bg-brand-ivory hover:bg-brand-red hover:text-white text-brand-obsidian font-bold text-xs uppercase tracking-wider border border-gray-300 transition-colors">
+              ASK ABOUT WINDOWS
+            </button>
+          </div>
+        </div>
+
+        <!-- Tile 4 — Staircases and Suitable Openings -->
+        <div class="bg-white rounded-2xl overflow-hidden border border-gray-200 shadow-sm flex flex-col group hover:shadow-xl transition-all duration-300">
+          <div class="h-56 overflow-hidden relative">
+            <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=700&q=80" 
+                 alt="Staircases and custom interior openings" 
+                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
+            <span class="absolute bottom-3 left-4 text-xs font-bold text-white uppercase tracking-wider">Custom Openings</span>
+          </div>
+          <div class="p-6 flex flex-col flex-1 justify-between space-y-4">
+            <div>
+              <h3 class="text-lg font-bold text-brand-obsidian mb-2">Staircases &amp; Voids</h3>
+              <p class="text-sm text-gray-600 leading-relaxed">
+                Discover whether an invisible grill configuration is appropriate for your staircase or other residential opening.
+              </p>
+            </div>
+            <button onclick="openEnquiryModal('Staircases and Suitable Openings')" class="w-full py-2.5 rounded-xl bg-brand-ivory hover:bg-brand-red hover:text-white text-brand-obsidian font-bold text-xs uppercase tracking-wider border border-gray-300 transition-colors">
+              DISCUSS MY REQUIREMENTS
+            </button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 8 — THE OFFER THAT CONVERTS & INTERACTIVE ESTIMATE CALCULATOR -->
+  <section id="calculator" class="py-24 sm:py-32 bg-brand-obsidian text-white relative overflow-hidden">
+    <!-- Architectural lines background effect -->
+    <div class="absolute right-0 top-0 bottom-0 w-1/3 cables-grid opacity-10 pointer-events-none"></div>
+
+    <div class="max-w-7xl mx-auto px-5 sm:px-8 relative z-10">
+      
+      <!-- Offer Highlight Header -->
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center mb-16">
+        <div class="lg:col-span-7 space-y-4">
+          <span class="text-xs font-extrabold uppercase tracking-[0.25em] text-brand-red inline-block">A BEAUTIFUL VIEW STARTS HERE</span>
+          <h2 class="text-3xl sm:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            Premium Invisible Grills. A Clearer Starting Price.
+          </h2>
+          <p class="text-gray-300 text-base sm:text-lg max-w-xl">
+            Planning to upgrade your balcony? Tell us about your space and receive an estimate tailored to your requirements.
+          </p>
+        </div>
+
+        <div class="lg:col-span-5 bg-brand-charcoal p-8 rounded-3xl border border-brand-borderDark text-center lg:text-left relative">
+          <span class="text-xs font-bold text-gray-400 uppercase tracking-widest block mb-1">Introductory Base Rate</span>
+          <div class="flex items-baseline justify-center lg:justify-start gap-2 mb-3">
+            <span class="text-4xl sm:text-5xl font-extrabold text-white">₹110</span>
+            <span class="text-lg text-rose-300 font-semibold">/ SQ. FT.*</span>
+          </div>
+          <p class="text-xs text-gray-400 leading-relaxed mb-6">
+            *Indicative starting price only. Final pricing depends on measurements, material specifications, installation complexity, and applicable terms. Confirm current offer with our team.
+          </p>
+          <div class="flex flex-col sm:flex-row gap-3">
+            <a href="#calc-tool" class="px-5 py-3 rounded-xl bg-brand-red hover:bg-brand-redHover text-white text-xs font-bold uppercase tracking-wider text-center transition-colors">
+              CALCULATE MY ESTIMATE
+            </a>
+            <a href="https://wa.me/918940354313?text=Hi%20THEO%20NETS%2C%20I'd%20like%20to%20chat%20with%20your%20team%20about%20invisible%20grill%20pricing%20and%20specifications." target="_blank" rel="noopener noreferrer" class="px-5 py-3 rounded-xl bg-white/10 hover:bg-white/20 text-white text-xs font-semibold tracking-wider text-center transition-colors">
+              CHAT WITH OUR TEAM
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- INTERACTIVE ESTIMATE CALCULATOR TOOL -->
+      <div id="calc-tool" class="bg-brand-charcoal rounded-3xl p-6 sm:p-10 border border-brand-borderDark shadow-2xl max-w-4xl mx-auto">
+        <div class="border-b border-white/10 pb-6 mb-8 flex flex-col sm:flex-row justify-between sm:items-center gap-4">
+          <div>
+            <h3 class="text-xl sm:text-2xl font-bold text-white">Interactive Area &amp; Estimate Estimator</h3>
+            <p class="text-xs sm:text-sm text-gray-400 mt-1">Add your approximate window or balcony dimensions below.</p>
+          </div>
+          <!-- Unit Selector -->
+          <div class="inline-flex rounded-xl p-1 bg-brand-obsidian border border-white/10 self-start sm:self-auto">
+            <button type="button" id="unit-ft-btn" onclick="setMeasurementUnit('feet')" class="px-4 py-1.5 rounded-lg text-xs font-bold uppercase tracking-wider bg-brand-red text-white transition-colors">
+              Feet (ft)
+            </button>
+            <button type="button" id="unit-m-btn" onclick="setMeasurementUnit('metres')" class="px-4 py-1.5 rounded-lg text-xs font-bold uppercase tracking-wider text-gray-400 hover:text-white transition-colors">
+              Metres (m)
+            </button>
+          </div>
+        </div>
+
+        <!-- Openings Dynamic Container -->
+        <div class="space-y-4 mb-6" id="openings-list">
+          <!-- Row 1 Default -->
+          <div class="opening-row bg-brand-obsidian/60 p-4 rounded-2xl border border-white/10 grid grid-cols-1 sm:grid-cols-12 gap-3 items-center" data-row="1">
+            <div class="sm:col-span-3">
+              <label class="block text-[11px] font-semibold text-gray-400 uppercase tracking-wider mb-1">Opening Label</label>
+              <input type="text" value="Balcony 1" class="opening-name w-full bg-white/5 border border-white/15 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-brand-red">
+            </div>
+            <div class="sm:col-span-3">
+              <label class="block text-[11px] font-semibold text-gray-400 uppercase tracking-wider mb-1">Width (<span class="unit-label">ft</span>)</label>
+              <input type="number" min="0.5" step="0.1" value="10" class="opening-width w-full bg-white/5 border border-white/15 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-brand-red" oninput="calculateTotalEstimate()">
+            </div>
+            <div class="sm:col-span-3">
+              <label class="block text-[11px] font-semibold text-gray-400 uppercase tracking-wider mb-1">Height (<span class="unit-label">ft</span>)</label>
+              <input type="number" min="0.5" step="0.1" value="6" class="opening-height w-full bg-white/5 border border-white/15 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-brand-red" oninput="calculateTotalEstimate()">
+            </div>
+            <div class="sm:col-span-2 text-right sm:text-center">
+              <span class="block text-[11px] font-semibold text-gray-400 uppercase tracking-wider mb-1">Area</span>
+              <span class="text-sm font-bold text-rose-200 opening-subtotal">60.0 sq.ft</span>
+            </div>
+            <div class="sm:col-span-1 text-right">
+              <button type="button" onclick="removeOpeningRow(this)" aria-label="Remove opening" class="p-2 text-gray-400 hover:text-rose-400 transition-colors">
+                ✕
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Add Opening Button -->
+        <div class="mb-8">
+          <button type="button" onclick="addOpeningRow()" class="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-rose-300 hover:text-white transition-colors">
+            <span class="w-5 h-5 rounded-full bg-white/10 flex items-center justify-center font-bold text-sm">+</span>
+            <span>Add Another Opening / Window</span>
+          </button>
+        </div>
+
+        <!-- Calculated Summary Box -->
+        <div class="bg-gradient-to-br from-brand-obsidian to-black rounded-2xl p-6 border border-white/15">
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
+            
+            <div class="space-y-3">
+              <div>
+                <span class="text-[11px] uppercase font-bold tracking-widest text-gray-400 block">YOUR ESTIMATED PROJECT AREA</span>
+                <div class="flex items-baseline gap-2 mt-1">
+                  <span id="display-total-area" class="text-3xl font-extrabold text-white">60.0</span>
+                  <span class="text-sm font-medium text-gray-300">SQ. FT.</span>
+                </div>
+              </div>
+              <div>
+                <span class="text-[11px] uppercase font-bold tracking-widest text-gray-400 block">INDICATIVE STARTING ESTIMATE (@ ₹110/SQ. FT.)</span>
+                <div class="flex items-baseline gap-2 mt-1">
+                  <span class="text-xl font-bold text-rose-300">Approx.</span>
+                  <span id="display-total-price" class="text-3xl sm:text-4xl font-extrabold text-emerald-400">₹6,600*</span>
+                </div>
+              </div>
+              <p class="text-[11px] text-gray-400 leading-normal">
+                This is an indicative estimate, not a final quotation. Actual pricing may vary based on specifications, hardware, installation complexity, and site location.
+              </p>
+            </div>
+
+            <div class="flex flex-col gap-3 justify-center">
+              <button type="button" onclick="sendCalculatedQuoteToWhatsApp()" class="w-full py-4 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2 shadow-lg transition-transform transform hover:-translate-y-0.5 active:translate-y-0">
+                <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.149.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.768-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.007c.106.005.249-.04.39.299.144.347.491 1.2.534 1.288.043.087.072.188.014.303-.058.116-.087.188-.173.289l-.26.303c-.087.087-.178.181-.077.355.101.174.449.742.963 1.201.662.591 1.221.774 1.394.86.173.087.275.072.376-.044.101-.116.433-.506.549-.679.116-.173.231-.144.39-.087s1.011.477 1.184.564.289.13.332.202c.044.073.044.419-.1 1.224z"/></svg>
+                <span>GET MY PERSONALIZED QUOTE ON WHATSAPP</span>
+              </button>
+              
+              <button type="button" onclick="openEnquiryModal('Calculator Detailed Site Visit')" class="w-full py-3 rounded-xl bg-white/10 hover:bg-white/20 text-white font-semibold text-xs tracking-wider border border-white/20 transition-colors">
+                Book Free Site Measurement Instead
+              </button>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- SECTION 9 — OUR SIMPLE PROCESS -->
+  <section id="process" class="py-24 sm:py-32 bg-brand-ivory">
+    <div class="max-w-7xl mx-auto px-5 sm:px-8">
+      <div class="max-w-3xl mb-16">
+        <span class="text-xs font-extrabold uppercase tracking-[0.25em] text-brand-red inline-block mb-3">FROM FIRST HELLO TO FINISHED INSTALLATION</span>
+        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-brand-obsidian tracking-tight mb-4">
+          Beautifully Simple. Every Step of the Way.
+        </h2>
+        <p class="text-base sm:text-lg text-gray-600 leading-relaxed">
+          We make it easier to move from an idea to a solution designed for your home.
+        </p>
+      </div>
+
+      <!-- Refined 4-Step Journey Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 relative mb-16">
+        
+        <!-- Step 1 -->
+        <div class="bg-white p-7 rounded-2xl border border-gray-200 relative flex flex-col justify-between">
+          <div class="mb-4">
+            <span class="text-3xl font-extrabold text-brand-red/80 font-serif">01</span>
+            <h3 class="text-lg font-bold text-brand-obsidian mt-2 mb-2">Tell Us About Your Space</h3>
+            <p class="text-sm text-gray-600 leading-relaxed">
+              Share your location, opening dimensions, and what you have in mind. Our team can help you understand the next steps.
+            </p>
+          </div>
+          <div class="pt-4 border-t border-gray-100 text-[11px] font-semibold text-gray-500 uppercase tracking-wider">
+            Initial Discovery
+          </div>
+        </div>
+
+        <!-- Step 2 -->
+        <div class="bg-white p-7 rounded-2xl border border-gray-200 relative flex flex-col justify-between">
+          <div class="mb-4">
+            <span class="text-3xl font-extrabold text-brand-red/80 font-serif">02</span>
+            <h3 class="text-lg font-bold text-brand-obsidian mt-2 mb-2">Arrange a Site Measurement</h3>
+            <p class="text-sm text-gray-600 leading-relaxed">
+              Where available, arrange a site visit so your openings and installation requirements can be assessed.
+            </p>
+          </div>
+          <div class="pt-4 border-t border-gray-100 text-[11px] font-semibold text-gray-500 uppercase tracking-wider">
+            Site Precision
+          </div>
+        </div>
+
+        <!-- Step 3 -->
+        <div class="bg-white p-7 rounded-2xl border border-gray-200 relative flex flex-col justify-between">
+          <div class="mb-4">
+            <span class="text-3xl font-extrabold text-brand-red/80 font-serif">03</span>
+            <h3 class="text-lg font-bold text-brand-obsidian mt-2 mb-2">Receive Your Quotation</h3>
+            <p class="text-sm text-gray-600 leading-relaxed">
+              Get a quotation based on your measurements, selected specifications, and installation requirements.
+            </p>
+          </div>
+          <div class="pt-4 border-t border-gray-100 text-[11px] font-semibold text-gray-500 uppercase tracking-wider">
+            Transparent Pricing
+          </div>
+        </div>
+
+        <!-- Step 4 -->
+        <div class="bg-white p-7 rounded-2xl border border-gray-200 relative flex flex-col justify-between">
+          <div class="mb-4">
+            <span class="text-3xl font-extrabold text-brand-red/80 font-serif">04</span>
+            <h3 class="text-lg font-bold text-brand-obsidian mt-2 mb-2">Plan Your Installation</h3>
+            <p class="text-sm text-gray-600 leading-relaxed">
+              Once the details are confirmed, coordinate the installation with our team.
+            </p>
+          </div>
+          <div class="pt-4 border-t border-gray-100 text-[11px] font-semibold text-gray-500 uppercase tracking-wider">
+            Professional Fitting
+          </div>
+        </div>
+
+      </div>
+
+      <div class="text-center">
+        <button onclick="openEnquiryModal('Process Inquiry CTA')" class="px-8 py-4 rounded-full bg-brand-obsidian hover:bg-black text-white text-xs font-bold uppercase tracking-wider shadow-lg transition-transform transform hover:-translate-y-0.5">
+          START MY ENQUIRY
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 10 — THE TRUST SECTION -->
+  <section class="py-24 bg-white border-t border-b border-gray-200">
+    <div class="max-w-7xl mx-auto px-5 sm:px-8">
+      <div class="max-w-3xl mb-16">
+        <span class="text-xs font-extrabold uppercase tracking-[0.25em] text-brand-red inline-block mb-3">DETAILS MATTER</span>
+        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-brand-obsidian tracking-tight mb-4">
+          Good Design Is Only the Beginning.
+        </h2>
+        <p class="text-base sm:text-lg text-gray-600 leading-relaxed">
+          An invisible grill should look right in your home and be appropriate for the opening it protects. Material selection, anchoring, installation quality, and ongoing inspection all matter.
+        </p>
+      </div>
+
+      <!-- 4 Principles Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
+        <div class="p-6 rounded-2xl bg-brand-ivory border border-gray-200">
+          <div class="w-8 h-8 rounded-lg bg-brand-obsidian text-white flex items-center justify-center text-xs font-bold mb-4">1</div>
+          <h3 class="text-base font-bold text-brand-obsidian mb-2">Thoughtful Recommendations</h3>
+          <p class="text-xs sm:text-sm text-gray-600 leading-relaxed">
+            Discuss your opening, intended use, and practical requirements before choosing a configuration.
+          </p>
+        </div>
+
+        <div class="p-6 rounded-2xl bg-brand-ivory border border-gray-200">
+          <div class="w-8 h-8 rounded-lg bg-brand-obsidian text-white flex items-center justify-center text-xs font-bold mb-4">2</div>
+          <h3 class="text-base font-bold text-brand-obsidian mb-2">Careful Installation</h3>
+          <p class="text-xs sm:text-sm text-gray-600 leading-relaxed">
+            Give attention to measurements, anchoring, cable tension, and the details of the finished installation.
+          </p>
+        </div>
+
+        <div class="p-6 rounded-2xl bg-brand-ivory border border-gray-200">
+          <div class="w-8 h-8 rounded-lg bg-brand-obsidian text-white flex items-center justify-center text-xs font-bold mb-4">3</div>
+          <h3 class="text-base font-bold text-brand-obsidian mb-2">Clear Communication</h3>
+          <p class="text-xs sm:text-sm text-gray-600 leading-relaxed">
+            Understand the proposed specifications, quotation, installation scope, and maintenance requirements.
+          </p>
+        </div>
+
+        <div class="p-6 rounded-2xl bg-brand-ivory border border-gray-200">
+          <div class="w-8 h-8 rounded-lg bg-brand-obsidian text-white flex items-center justify-center text-xs font-bold mb-4">4</div>
+          <h3 class="text-base font-bold text-brand-obsidian mb-2">Ongoing Care</h3>
+          <p class="text-xs sm:text-sm text-gray-600 leading-relaxed">
+            Follow the manufacturer's inspection and maintenance guidance to help keep the system in suitable condition.
+          </p>
+        </div>
+      </div>
+
+      <!-- Restrained Honest Safety Caveat Note -->
+      <div class="max-w-4xl mx-auto p-5 rounded-2xl bg-gray-50 border border-gray-200 text-center">
+        <p class="text-xs text-gray-500 leading-relaxed">
+          <strong>Important Advisory:</strong> An invisible grill is not a substitute for supervision or a guarantee against falls. Suitability and safety depend on the system specification, installation, maintenance, and intended use.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 11 — FREQUENTLY ASKED QUESTIONS -->
+  <section id="faq" class="py-24 sm:py-32 bg-brand-ivory">
+    <div class="max-w-4xl mx-auto px-5 sm:px-8">
+      <div class="text-center mb-16">
+        <span class="text-xs font-extrabold uppercase tracking-[0.25em] text-brand-red inline-block mb-3">GOOD QUESTIONS. CLEAR ANSWERS.</span>
+        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-brand-obsidian tracking-tight">
+          Everything You'd Like to Know.
+        </h2>
+      </div>
+
+      <!-- Accordion Container -->
+      <div class="space-y-4" id="faq-accordion">
+        
+        <!-- FAQ 1 -->
+        <div class="border border-gray-200 rounded-2xl bg-white overflow-hidden transition-all">
+          <button type="button" class="faq-btn w-full px-6 py-5 text-left flex justify-between items-center focus:outline-none focus:bg-gray-50" aria-expanded="false" onclick="toggleFaq(this)">
+            <span class="text-base font-bold text-brand-obsidian">What is an invisible grill?</span>
+            <span class="faq-icon text-xl text-gray-400 font-light ml-4 transition-transform">+</span>
+          </button>
+          <div class="faq-content hidden px-6 pb-5 pt-1 text-sm text-gray-600 leading-relaxed border-t border-gray-100">
+            An invisible grill is a discreet barrier system using slender cables installed across suitable openings. It is designed to preserve an open visual appearance while providing a physical barrier.
+          </div>
+        </div>
+
+        <!-- FAQ 2 -->
+        <div class="border border-gray-200 rounded-2xl bg-white overflow-hidden transition-all">
+          <button type="button" class="faq-btn w-full px-6 py-5 text-left flex justify-between items-center focus:outline-none focus:bg-gray-50" aria-expanded="false" onclick="toggleFaq(this)">
+            <span class="text-base font-bold text-brand-obsidian">Is an invisible grill suitable for apartments?</span>
+            <span class="faq-icon text-xl text-gray-400 font-light ml-4 transition-transform">+</span>
+          </button>
+          <div class="faq-content hidden px-6 pb-5 pt-1 text-sm text-gray-600 leading-relaxed border-t border-gray-100">
+            It may be suitable for many apartment balconies and windows. The opening, installation method, building rules, and product specifications should be assessed before installation.
+          </div>
+        </div>
+
+        <!-- FAQ 3 -->
+        <div class="border border-gray-200 rounded-2xl bg-white overflow-hidden transition-all">
+          <button type="button" class="faq-btn w-full px-6 py-5 text-left flex justify-between items-center focus:outline-none focus:bg-gray-50" aria-expanded="false" onclick="toggleFaq(this)">
+            <span class="text-base font-bold text-brand-obsidian">Will it block my view?</span>
+            <span class="faq-icon text-xl text-gray-400 font-light ml-4 transition-transform">+</span>
+          </button>
+          <div class="faq-content hidden px-6 pb-5 pt-1 text-sm text-gray-600 leading-relaxed border-t border-gray-100">
+            The slender cables are designed to reduce visual obstruction compared with many conventional grills. The actual appearance depends on cable spacing, viewing angle, lighting, and the installation.
+          </div>
+        </div>
+
+        <!-- FAQ 4 -->
+        <div class="border border-gray-200 rounded-2xl bg-white overflow-hidden transition-all">
+          <button type="button" class="faq-btn w-full px-6 py-5 text-left flex justify-between items-center focus:outline-none focus:bg-gray-50" aria-expanded="false" onclick="toggleFaq(this)">
+            <span class="text-base font-bold text-brand-obsidian">Is it suitable for homes with children or pets?</span>
+            <span class="faq-icon text-xl text-gray-400 font-light ml-4 transition-transform">+</span>
+          </button>
+          <div class="faq-content hidden px-6 pb-5 pt-1 text-sm text-gray-600 leading-relaxed border-t border-gray-100">
+            It may provide an additional barrier when correctly specified and installed for the intended use. Not every configuration is appropriate for every child or pet, and the system should never replace supervision or other necessary safeguards.
+          </div>
+        </div>
+
+        <!-- FAQ 5 -->
+        <div class="border border-gray-200 rounded-2xl bg-white overflow-hidden transition-all">
+          <button type="button" class="faq-btn w-full px-6 py-5 text-left flex justify-between items-center focus:outline-none focus:bg-gray-50" aria-expanded="false" onclick="toggleFaq(this)">
+            <span class="text-base font-bold text-brand-obsidian">How much does an invisible grill cost?</span>
+            <span class="faq-icon text-xl text-gray-400 font-light ml-4 transition-transform">+</span>
+          </button>
+          <div class="faq-content hidden px-6 pb-5 pt-1 text-sm text-gray-600 leading-relaxed border-t border-gray-100">
+            Our advertised introductory starting price is ₹110 per square foot, subject to current offer confirmation. Your final quotation depends on the opening dimensions, specifications, materials, and installation requirements.
+          </div>
+        </div>
+
+        <!-- FAQ 6 -->
+        <div class="border border-gray-200 rounded-2xl bg-white overflow-hidden transition-all">
+          <button type="button" class="faq-btn w-full px-6 py-5 text-left flex justify-between items-center focus:outline-none focus:bg-gray-50" aria-expanded="false" onclick="toggleFaq(this)">
+            <span class="text-base font-bold text-brand-obsidian">How do I calculate my balcony area?</span>
+            <span class="faq-icon text-xl text-gray-400 font-light ml-4 transition-transform">+</span>
+          </button>
+          <div class="faq-content hidden px-6 pb-5 pt-1 text-sm text-gray-600 leading-relaxed border-t border-gray-100">
+            Measure the width and height of each opening, multiply them to estimate the area, and add the areas together. Our calculator can help you prepare an initial estimate.
+          </div>
+        </div>
+
+        <!-- FAQ 7 -->
+        <div class="border border-gray-200 rounded-2xl bg-white overflow-hidden transition-all">
+          <button type="button" class="faq-btn w-full px-6 py-5 text-left flex justify-between items-center focus:outline-none focus:bg-gray-50" aria-expanded="false" onclick="toggleFaq(this)">
+            <span class="text-base font-bold text-brand-obsidian">How long does installation take?</span>
+            <span class="faq-icon text-xl text-gray-400 font-light ml-4 transition-transform">+</span>
+          </button>
+          <div class="faq-content hidden px-6 pb-5 pt-1 text-sm text-gray-600 leading-relaxed border-t border-gray-100">
+            Installation time depends on the number and size of openings, site conditions, and the selected system. Contact us with your requirements for a more accurate timeline.
+          </div>
+        </div>
+
+        <!-- FAQ 8 -->
+        <div class="border border-gray-200 rounded-2xl bg-white overflow-hidden transition-all">
+          <button type="button" class="faq-btn w-full px-6 py-5 text-left flex justify-between items-center focus:outline-none focus:bg-gray-50" aria-expanded="false" onclick="toggleFaq(this)">
+            <span class="text-base font-bold text-brand-obsidian">How do I arrange a site measurement?</span>
+            <span class="faq-icon text-xl text-gray-400 font-light ml-4 transition-transform">+</span>
+          </button>
+          <div class="faq-content hidden px-6 pb-5 pt-1 text-sm text-gray-600 leading-relaxed border-t border-gray-100">
+            Send us your location and project details through WhatsApp. Our team can confirm the available service options and coordinate the next step.
+          </div>
+        </div>
+
+        <!-- FAQ 9 -->
+        <div class="border border-gray-200 rounded-2xl bg-white overflow-hidden transition-all">
+          <button type="button" class="faq-btn w-full px-6 py-5 text-left flex justify-between items-center focus:outline-none focus:bg-gray-50" aria-expanded="false" onclick="toggleFaq(this)">
+            <span class="text-base font-bold text-brand-obsidian">Do you provide franchise opportunities?</span>
+            <span class="faq-icon text-xl text-gray-400 font-light ml-4 transition-transform">+</span>
+          </button>
+          <div class="faq-content hidden px-6 pb-5 pt-1 text-sm text-gray-600 leading-relaxed border-t border-gray-100">
+            We welcome enquiries from entrepreneurs interested in exploring an invisible grill business opportunity with THEO NETS. Contact our team to discuss availability, eligibility, and commercial terms.
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Below FAQ Callout -->
+      <div class="mt-12 text-center pt-8 border-t border-gray-200">
+        <p class="text-sm font-semibold text-gray-700 mb-4">Still have a question? We're happy to help.</p>
+        <a href="https://wa.me/918940354313?text=Hi%20THEO%20NETS%2C%20I%20have%20a%20question%20about%20your%20invisible%20grills%20that%20I'd%20like%20to%20ask." target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs uppercase tracking-wider shadow-md transition-all">
+          <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.149.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.768-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.007c.106.005.249-.04.39.299.144.347.491 1.2.534 1.288.043.087.072.188.014.303-.058.116-.087.188-.173.289l-.26.303c-.087.087-.178.181-.077.355.101.174.449.742.963 1.201.662.591 1.221.774 1.394.86.173.087.275.072.376-.044.101-.116.433-.506.549-.679.116-.173.231-.144.39-.087s1.011.477 1.184.564.289.13.332.202c.044.073.044.419-.1 1.224z"/></svg>
+          <span>ASK US ON WHATSAPP</span>
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- SECTION 12 — THE FINAL CONVERSION MOMENT -->
+  <section class="relative py-28 sm:py-36 bg-brand-obsidian text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2000&q=85" 
+           alt="Cinematic balcony with warm golden hour sunlight" 
+           class="w-full h-full object-cover object-center filter brightness-[0.45]">
+      <div class="absolute inset-0 bg-gradient-to-t from-brand-obsidian via-brand-obsidian/75 to-transparent"></div>
+      <div class="absolute inset-0 cables-grid opacity-20 pointer-events-none"></div>
+    </div>
+
+    <div class="relative z-10 max-w-4xl mx-auto px-5 sm:px-8 text-center">
+      <h2 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight mb-6 text-balance">
+        Keep Your Home Open to What Matters.
+      </h2>
+      <div class="space-y-2 text-base sm:text-xl text-gray-200 max-w-2xl mx-auto leading-relaxed mb-10">
+        <p>Your home deserves thoughtful protection. Your view deserves to stay beautiful.</p>
+        <p class="font-semibold text-white">Let's find the right invisible grill solution for your space.</p>
+      </div>
+
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
+        <button onclick="openEnquiryModal('Final Section Primary CTA')" class="w-full sm:w-auto px-9 py-4 rounded-full bg-brand-red hover:bg-brand-redHover text-white font-bold text-xs uppercase tracking-wider shadow-2xl shadow-rose-950/60 transition-all transform hover:-translate-y-1">
+          GET MY FREE QUOTE
+        </button>
+        <a href="https://wa.me/918940354313?text=Hi%20THEO%20NETS%2C%20I'd%20like%20to%20chat%20with%20your%20team%20about%20invisible%20grills%20for%20my%20home." target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto px-8 py-4 rounded-full bg-white/10 hover:bg-white/20 text-white border border-white/25 font-semibold text-xs tracking-wider transition-all backdrop-blur-sm">
+          CHAT WITH OUR TEAM
+        </a>
+      </div>
+
+      <!-- Contact Microcopy -->
+      <div class="pt-8 border-t border-white/15 max-w-xl mx-auto flex flex-col sm:flex-row justify-center items-center gap-4 text-xs text-gray-300">
+        <span class="font-bold text-white tracking-wider">THEO NETS · Invisible Grill Solutions</span>
+        <span class="hidden sm:inline text-white/30">•</span>
+        <a href="https://wa.me/918940354313" class="hover:text-emerald-400 transition-colors">WhatsApp: +91 89403 54313</a>
+        <span class="hidden sm:inline text-white/30">•</span>
+        <a href="mailto:theonets28@gmail.com" class="hover:text-white transition-colors">theonets28@gmail.com</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 13 — THE PREMIUM FOOTER -->
+  <footer class="bg-black text-gray-400 py-16 border-t border-brand-borderDark text-xs">
+    <div class="max-w-7xl mx-auto px-5 sm:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-10 mb-12">
+        
+        <!-- Brand Info Column (5 cols) -->
+        <div class="lg:col-span-5 space-y-4">
+          <div class="flex items-center gap-3">
+            <div class="w-8 h-8 rounded-lg bg-white/10 border border-white/20 flex items-center justify-center">
+              <span class="font-extrabold text-white text-sm">TN</span>
+            </div>
+            <span class="text-lg font-extrabold text-white tracking-tight">THEO NETS</span>
+          </div>
+          <p class="text-rose-400 font-semibold uppercase tracking-wider text-[11px]">
+            Safety. Style. Open View.
+          </p>
+          <p class="text-gray-400 leading-relaxed max-w-sm text-xs">
+            Thoughtfully designed invisible grill solutions for modern homes. Engineered with high-tensile marine grade stainless cables to ensure unimpeded natural views and architectural sophistication.
+          </p>
+          <p class="text-gray-500 text-[11px]">
+            Service Area: Coimbatore and Tamil Nadu, subject to service availability.
+          </p>
+        </div>
+
+        <!-- Quick Navigation (3 cols) -->
+        <div class="lg:col-span-3 space-y-3">
+          <h4 class="text-white font-bold uppercase tracking-wider text-xs">Navigation</h4>
+          <ul class="space-y-2">
+            <li><a href="#hero" class="hover:text-white transition-colors">Home</a></li>
+            <li><a href="#product-reveal" class="hover:text-white transition-colors">Invisible Grills</a></li>
+            <li><a href="#benefits" class="hover:text-white transition-colors">Benefits</a></li>
+            <li><a href="#applications" class="hover:text-white transition-colors">Our Work &amp; Applications</a></li>
+            <li><a href="#faq" class="hover:text-white transition-colors">FAQs</a></li>
+          </ul>
+        </div>
+
+        <!-- Contact & Enquiries (4 cols) -->
+        <div class="lg:col-span-4 space-y-3">
+          <h4 class="text-white font-bold uppercase tracking-wider text-xs">Contact &amp; Partnerships</h4>
+          <p class="text-gray-300">
+            Direct Phone / WhatsApp: <a href="tel:+918940354313" class="text-white font-semibold hover:text-brand-red transition-colors">+91 89403 54313</a>
+          </p>
+          <p class="text-gray-300">
+            Email: <a href="mailto:theonets28@gmail.com" class="text-white hover:text-brand-red transition-colors">theonets28@gmail.com</a>
+          </p>
+          <div class="pt-2 flex flex-col gap-2">
+            <a href="https://wa.me/918940354313?text=Hi%20THEO%20NETS%2C%20I'm%20ready%20to%20enquire%20for%20my%20residence." target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-2 py-2 px-4 rounded-lg bg-emerald-700/70 hover:bg-emerald-600 text-white font-bold tracking-wider text-[11px] uppercase transition-colors">
+              ENQUIRE ON WHATSAPP
+            </a>
+            <button onclick="openFranchiseModal()" class="inline-flex items-center justify-center py-2 px-4 rounded-lg bg-white/5 hover:bg-white/10 text-gray-300 border border-white/10 text-[11px] font-semibold tracking-wider transition-colors">
+              EXPLORE FRANCHISE OPPORTUNITIES
+            </button>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Legal and Copyright -->
+      <div class="pt-8 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4 text-[11px] text-gray-500">
+        <div>
+          © 2026 THEO NETS. All rights reserved. Invisible Grill Solutions.
+        </div>
+        <div class="flex items-center gap-6">
+          <button onclick="openTermsModal('privacy')" class="hover:text-gray-300 transition-colors">Privacy Policy</button>
+          <button onclick="openTermsModal('terms')" class="hover:text-gray-300 transition-colors">Terms of Service</button>
+          <button onclick="openTermsModal('pricing')" class="hover:text-gray-300 transition-colors">Pricing Terms &amp; Scope</button>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- FLOATING PERSISTENT WHATSAPP ACTION -->
+  <div class="fixed bottom-6 right-6 z-40 flex items-center gap-3">
+    <!-- Tooltip hint on desktop -->
+    <div class="hidden md:flex items-center bg-brand-obsidian/95 text-white text-xs font-semibold px-3 py-1.5 rounded-full shadow-lg border border-white/15 backdrop-blur-md">
+      <span>Get instant quote on WhatsApp</span>
+    </div>
+
+    <a href="https://wa.me/918940354313?text=Hi%20THEO%20NETS%2C%20I'm%20visiting%20your%20website%20and%20would%20like%20to%20enquire%20about%20invisible%20grills%20for%20my%20home." 
+       target="_blank" 
+       rel="noopener noreferrer"
+       aria-label="Chat directly on WhatsApp with THEO NETS"
+       class="w-14 h-14 rounded-full bg-emerald-500 hover:bg-emerald-600 text-white flex items-center justify-center shadow-2xl shadow-emerald-950/60 transition-transform transform hover:scale-110 active:scale-95 focus:outline-none focus:ring-4 focus:ring-emerald-300">
+      <svg class="w-7 h-7 fill-current" viewBox="0 0 24 24"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.149.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.768-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.007c.106.005.249-.04.39.299.144.347.491 1.2.534 1.288.043.087.072.188.014.303-.058.116-.087.188-.173.289l-.26.303c-.087.087-.178.181-.077.355.101.174.449.742.963 1.201.662.591 1.221.774 1.394.86.173.087.275.072.376-.044.101-.116.433-.506.549-.679.116-.173.231-.144.39-.087s1.011.477 1.184.564.289.13.332.202c.044.073.044.419-.1 1.224z"/></svg>
+      <span class="absolute -top-1 -right-1 w-3.5 h-3.5 rounded-full bg-brand-red border-2 border-white animate-ping"></span>
+    </a>
+  </div>
+
+  <!-- MODAL: STRUCTURED ENQUIRY / FREE QUOTE FORM -->
+  <div id="enquiry-modal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 bg-black/75 backdrop-blur-sm" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="bg-white rounded-3xl max-w-lg w-full overflow-hidden shadow-2xl border border-gray-200 transform transition-all flex flex-col max-h-[92vh]">
+      
+      <!-- Modal Header -->
+      <div class="bg-brand-obsidian p-6 text-white flex justify-between items-center relative">
+        <div>
+          <span class="text-[10px] font-bold tracking-widest uppercase text-rose-300 block">THEO NETS · QUOTATION REQUEST</span>
+          <h3 id="modal-title" class="text-xl font-extrabold text-white mt-1">Get Your Free Quote &amp; Site Visit</h3>
+        </div>
+        <button onclick="closeEnquiryModal()" class="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-white/20 transition-colors" aria-label="Close dialog">
+          ✕
+        </button>
+      </div>
+
+      <!-- Modal Body Form -->
+      <div class="p-6 overflow-y-auto flex-1">
+        <form id="enquiry-form" onsubmit="handleEnquiryFormSubmit(event)" class="space-y-4">
+          <input type="hidden" id="form-source" value="General">
+
+          <div>
+            <label class="block text-xs font-bold text-gray-700 uppercase tracking-wider mb-1" for="user-name">Your Full Name *</label>
+            <input type="text" id="user-name" required placeholder="e.g. Ramesh Kumar" class="w-full px-4 py-2.5 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-brand-red text-sm">
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <div>
+              <label class="block text-xs font-bold text-gray-700 uppercase tracking-wider mb-1" for="user-phone">Phone / WhatsApp Number *</label>
+              <input type="tel" id="user-phone" required placeholder="e.g. +91 98765 43210" class="w-full px-4 py-2.5 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-brand-red text-sm">
+            </div>
+            <div>
+              <label class="block text-xs font-bold text-gray-700 uppercase tracking-wider mb-1" for="user-city">City / Area in TN *</label>
+              <input type="text" id="user-city" required placeholder="e.g. Coimbatore (RS Puram)" class="w-full px-4 py-2.5 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-brand-red text-sm">
+            </div>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <div>
+              <label class="block text-xs font-bold text-gray-700 uppercase tracking-wider mb-1" for="user-property">Property Type</label>
+              <select id="user-property" class="w-full px-4 py-2.5 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-brand-red text-sm bg-white">
+                <option value="Apartment Balcony">Apartment Balcony</option>
+                <option value="Independent Villa">Independent Villa</option>
+                <option value="Residential Window">Residential Windows</option>
+                <option value="Staircase / Void">Staircase / Void Area</option>
+                <option value="Commercial / Other">Commercial / Other</option>
+              </select>
+            </div>
+            <div>
+              <label class="block text-xs font-bold text-gray-700 uppercase tracking-wider mb-1" for="user-contact-pref">Preferred Contact Method</label>
+              <select id="user-contact-pref" class="w-full px-4 py-2.5 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-brand-red text-sm bg-white">
+                <option value="WhatsApp">WhatsApp Message</option>
+                <option value="Phone Call">Phone Call</option>
+                <option value="Email">Email</option>
+              </select>
+            </div>
+          </div>
+
+          <div>
+            <label class="block text-xs font-bold text-gray-700 uppercase tracking-wider mb-1" for="user-notes">Approximate Dimensions or Notes (Optional)</label>
+            <textarea id="user-notes" rows="2" placeholder="e.g. 2 Balconies approx 10x6 ft each, looking for high-tensile child safety." class="w-full px-4 py-2.5 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-brand-red text-sm"></textarea>
+          </div>
+
+          <!-- Notice on direct submission flow -->
+          <div class="bg-gray-50 p-3 rounded-xl border border-gray-200 text-xs text-gray-500">
+            Clicking submit will instantly prepare your enquiry and open our official WhatsApp channel for priority response with our project engineers.
+          </div>
+
+          <div class="pt-2">
+            <button type="submit" class="w-full py-3.5 rounded-xl bg-brand-red hover:bg-brand-redHover text-white font-bold text-xs uppercase tracking-wider transition-colors shadow-lg">
+              CONFIRM &amp; CONNECT ON WHATSAPP
+            </button>
+          </div>
+        </form>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- MODAL: FRANCHISE ENQUIRY DIALOG -->
+  <div id="franchise-modal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 bg-black/75 backdrop-blur-sm" role="dialog" aria-modal="true">
+    <div class="bg-white rounded-3xl max-w-md w-full overflow-hidden shadow-2xl border border-gray-200 flex flex-col">
+      <div class="bg-brand-obsidian p-6 text-white flex justify-between items-center">
+        <div>
+          <span class="text-[10px] font-bold tracking-widest uppercase text-rose-300 block">BUSINESS OPPORTUNITY</span>
+          <h3 class="text-lg font-bold text-white mt-1">THEO NETS Franchise Partnership</h3>
+        </div>
+        <button onclick="closeFranchiseModal()" class="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-white/20 transition-colors">✕</button>
+      </div>
+      <div class="p-6 space-y-4 text-sm text-gray-600">
+        <p>
+          We welcome conversations with motivated entrepreneurs, interior design firms, and building material distributors across Tamil Nadu looking to offer certified invisible grill installations.
+        </p>
+        <p class="font-medium text-brand-obsidian">
+          Contact our expansion desk directly to explore commercial territory availability and eligibility criteria:
+        </p>
+        <div class="p-4 bg-brand-ivory rounded-2xl border border-gray-200 text-xs space-y-1">
+          <p><strong>Direct Line:</strong> +91 89403 54313</p>
+          <p><strong>Email:</strong> theonets28@gmail.com</p>
+        </div>
+        <a href="https://wa.me/918940354313?text=Hi%20THEO%20NETS%2C%20I%20am%20interested%20in%20franchise%20and%20business%20partnership%20opportunities%20in%20Tamil%20Nadu." target="_blank" rel="noopener noreferrer" class="block w-full text-center py-3 rounded-xl bg-brand-obsidian text-white font-bold text-xs uppercase tracking-wider hover:bg-black transition-colors">
+          DISCUSS FRANCHISE ON WHATSAPP
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: TERMS & PRIVACY DIALOG -->
+  <div id="terms-modal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 bg-black/75 backdrop-blur-sm" role="dialog" aria-modal="true">
+    <div class="bg-white rounded-3xl max-w-lg w-full overflow-hidden shadow-2xl border border-gray-200 flex flex-col max-h-[85vh]">
+      <div class="bg-brand-obsidian p-5 text-white flex justify-between items-center">
+        <h3 id="terms-modal-title" class="text-base font-bold text-white">Legal &amp; Information Policy</h3>
+        <button onclick="closeTermsModal()" class="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white">✕</button>
+      </div>
+      <div id="terms-modal-body" class="p-6 text-xs text-gray-600 leading-relaxed overflow-y-auto space-y-3">
+        <!-- Content inserted dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <script>
+    /* ----------------------------------------------------
+       State & Constants
+       ---------------------------------------------------- */
+    let currentUnit = 'feet'; // 'feet' or 'metres'
+    const BASE_RATE_PER_SQFT = 110;
+    const METRE_TO_FEET_FACTOR = 3.28084; // 1 metre = 3.28084 ft
+
+    /* ----------------------------------------------------
+       Header Scroll Transition & Mobile Menu
+       ---------------------------------------------------- */
+    const siteHeader = document.getElementById('site-header');
+    const mobileMenu = document.getElementById('mobile-menu');
+    const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 40) {
+        siteHeader.classList.add('glass-nav', 'shadow-lg');
+      } else {
+        siteHeader.classList.remove('glass-nav', 'shadow-lg');
+      }
+    });
+
+    function toggleMobileMenu() {
+      mobileMenu.classList.toggle('hidden');
+    }
+
+    if (mobileMenuBtn) {
+      mobileMenuBtn.addEventListener('click', toggleMobileMenu);
+    }
+
+    document.querySelectorAll('.mobile-nav-link').forEach(link => {
+      link.addEventListener('click', () => {
+        if (!mobileMenu.classList.contains('hidden')) {
+          mobileMenu.classList.add('hidden');
+        }
+      });
+    });
+
+    /* ----------------------------------------------------
+       Interactive Product Comparison Slider Logic
+       ---------------------------------------------------- */
+    const comparisonContainer = document.getElementById('comparison-container');
+    const conventionalLayer = document.getElementById('conventional-layer');
+    const sliderHandle = document.getElementById('slider-handle');
+    const conventionalImgWrapper = document.getElementById('conventional-img-wrapper');
+
+    let isSliding = false;
+
+    function updateSlider(positionX) {
+      if (!comparisonContainer) return;
+      const rect = comparisonContainer.getBoundingClientRect();
+      let offsetX = positionX - rect.left;
+      if (offsetX < 0) offsetX = 0;
+      if (offsetX > rect.width) offsetX = rect.width;
+      
+      const percentage = (offsetX / rect.width) * 100;
+      conventionalLayer.style.width = `${percentage}%`;
+      sliderHandle.style.left = `${percentage}%`;
+      sliderHandle.setAttribute('aria-valuenow', Math.round(percentage));
+
+      // Match internal image dimension to container width
+      if (conventionalImgWrapper) {
+        conventionalImgWrapper.style.width = `${rect.width}px`;
+      }
+    }
+
+    if (comparisonContainer && sliderHandle) {
+      // Sync on resize
+      window.addEventListener('resize', () => {
+        const rect = comparisonContainer.getBoundingClientRect();
+        if (conventionalImgWrapper) {
+          conventionalImgWrapper.style.width = `${rect.width}px`;
+        }
+      });
+
+      // Mouse Events
+      comparisonContainer.addEventListener('mousedown', (e) => {
+        isSliding = true;
+        updateSlider(e.clientX);
+      });
+      window.addEventListener('mouseup', () => {
+        isSliding = false;
+      });
+      window.addEventListener('mousemove', (e) => {
+        if (!isSliding) return;
+        updateSlider(e.clientX);
+      });
+
+      // Touch Events for Mobile
+      comparisonContainer.addEventListener('touchstart', (e) => {
+        isSliding = true;
+        if (e.touches[0]) updateSlider(e.touches[0].clientX);
+      }, { passive: true });
+      window.addEventListener('touchend', () => {
+        isSliding = false;
+      });
+      window.addEventListener('touchmove', (e) => {
+        if (!isSliding) return;
+        if (e.touches[0]) updateSlider(e.touches[0].clientX);
+      }, { passive: true });
+
+      // Keyboard Accessibility for Slider
+      sliderHandle.addEventListener('keydown', (e) => {
+        const currentVal = parseInt(sliderHandle.getAttribute('aria-valuenow') || '50', 10);
+        const rect = comparisonContainer.getBoundingClientRect();
+        if (e.key === 'ArrowLeft') {
+          const newVal = Math.max(0, currentVal - 5);
+          updateSlider(rect.left + (rect.width * newVal / 100));
+        } else if (e.key === 'ArrowRight') {
+          const newVal = Math.min(100, currentVal + 5);
+          updateSlider(rect.left + (rect.width * newVal / 100));
+        }
+      });
+    }
+
+    /* ----------------------------------------------------
+       Estimate Calculator Logic
+       ---------------------------------------------------- */
+    function setMeasurementUnit(unit) {
+      currentUnit = unit;
+      const ftBtn = document.getElementById('unit-ft-btn');
+      const mBtn = document.getElementById('unit-m-btn');
+      const unitLabels = document.querySelectorAll('.unit-label');
+
+      if (unit === 'feet') {
+        ftBtn.className = 'px-4 py-1.5 rounded-lg text-xs font-bold uppercase tracking-wider bg-brand-red text-white transition-colors';
+        mBtn.className = 'px-4 py-1.5 rounded-lg text-xs font-bold uppercase tracking-wider text-gray-400 hover:text-white transition-colors';
+        unitLabels.forEach(el => el.textContent = 'ft');
+      } else {
+        mBtn.className = 'px-4 py-1.5 rounded-lg text-xs font-bold uppercase tracking-wider bg-brand-red text-white transition-colors';
+        ftBtn.className = 'px-4 py-1.5 rounded-lg text-xs font-bold uppercase tracking-wider text-gray-400 hover:text-white transition-colors';
+        unitLabels.forEach(el => el.textContent = 'm');
+      }
+      calculateTotalEstimate();
+    }
+
+    function addOpeningRow() {
+      const container = document.getElementById('openings-list');
+      const rowCount = container.querySelectorAll('.opening-row').length + 1;
+      const unitTxt = currentUnit === 'feet' ? 'ft' : 'm';
+      const defaultW = currentUnit === 'feet' ? '8' : '2.4';
+      const defaultH = currentUnit === 'feet' ? '5' : '1.5';
+
+      const div = document.createElement('div');
+      div.className = 'opening-row bg-brand-obsidian/60 p-4 rounded-2xl border border-white/10 grid grid-cols-1 sm:grid-cols-12 gap-3 items-center';
+      div.dataset.row = rowCount;
+      div.innerHTML = `
+        <div class="sm:col-span-3">
+          <label class="block text-[11px] font-semibold text-gray-400 uppercase tracking-wider mb-1">Opening Label</label>
+          <input type="text" value="Opening ${rowCount}" class="opening-name w-full bg-white/5 border border-white/15 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-brand-red">
+        </div>
+        <div class="sm:col-span-3">
+          <label class="block text-[11px] font-semibold text-gray-400 uppercase tracking-wider mb-1">Width (<span class="unit-label">${unitTxt}</span>)</label>
+          <input type="number" min="0.5" step="0.1" value="${defaultW}" class="opening-width w-full bg-white/5 border border-white/15 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-brand-red" oninput="calculateTotalEstimate()">
+        </div>
+        <div class="sm:col-span-3">
+          <label class="block text-[11px] font-semibold text-gray-400 uppercase tracking-wider mb-1">Height (<span class="unit-label">${unitTxt}</span>)</label>
+          <input type="number" min="0.5" step="0.1" value="${defaultH}" class="opening-height w-full bg-white/5 border border-white/15 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-brand-red" oninput="calculateTotalEstimate()">
+        </div>
+        <div class="sm:col-span-2 text-right sm:text-center">
+          <span class="block text-[11px] font-semibold text-gray-400 uppercase tracking-wider mb-1">Area</span>
+          <span class="text-sm font-bold text-rose-200 opening-subtotal">-- sq.ft</span>
+        </div>
+        <div class="sm:col-span-1 text-right">
+          <button type="button" onclick="removeOpeningRow(this)" aria-label="Remove opening" class="p-2 text-gray-400 hover:text-rose-400 transition-colors">
+            ✕
+          </button>
+        </div>
+      `;
+      container.appendChild(div);
+      calculateTotalEstimate();
+    }
+
+    function removeOpeningRow(btn) {
+      const container = document.getElementById('openings-list');
+      const rows = container.querySelectorAll('.opening-row');
+      if (rows.length <= 1) {
+        // Clear instead of removing last row
+        const row = rows[0];
+        row.querySelector('.opening-width').value = '0';
+        row.querySelector('.opening-height').value = '0';
+      } else {
+        btn.closest('.opening-row').remove();
+      }
+      calculateTotalEstimate();
+    }
+
+    function calculateTotalEstimate() {
+      const rows = document.querySelectorAll('.opening-row');
+      let totalSqFt = 0;
+
+      rows.forEach(row => {
+        const w = parseFloat(row.querySelector('.opening-width').value) || 0;
+        const h = parseFloat(row.querySelector('.opening-height').value) || 0;
+        let rowSqFt = 0;
+
+        if (currentUnit === 'metres') {
+          // Convert metres to feet for area calculation
+          const wFt = w * METRE_TO_FEET_FACTOR;
+          const hFt = h * METRE_TO_FEET_FACTOR;
+          rowSqFt = wFt * hFt;
+        } else {
+          rowSqFt = w * h;
+        }
+
+        totalSqFt += rowSqFt;
+        const subtotalEl = row.querySelector('.opening-subtotal');
+        if (subtotalEl) {
+          subtotalEl.textContent = `${rowSqFt.toFixed(1)} sq.ft`;
+        }
+      });
+
+      const displayArea = document.getElementById('display-total-area');
+      const displayPrice = document.getElementById('display-total-price');
+
+      displayArea.textContent = totalSqFt.toFixed(1);
+      const estPrice = Math.round(totalSqFt * BASE_RATE_PER_SQFT);
+      displayPrice.textContent = `₹${estPrice.toLocaleString('en-IN')}*`;
+
+      return { totalSqFt: totalSqFt.toFixed(1), estPrice };
+    }
+
+    function sendCalculatedQuoteToWhatsApp() {
+      const { totalSqFt, estPrice } = calculateTotalEstimate();
+      const rows = document.querySelectorAll('.opening-row');
+      let breakdown = [];
+
+      rows.forEach((row, idx) => {
+        const name = row.querySelector('.opening-name').value || `Opening ${idx + 1}`;
+        const w = row.querySelector('.opening-width').value || '0';
+        const h = row.querySelector('.opening-height').value || '0';
+        const unit = currentUnit === 'feet' ? 'ft' : 'm';
+        breakdown.push(`${name}: ${w}x${h} ${unit}`);
+      });
+
+      const message = `Hi THEO NETS, I used your website calculator for an invisible grill estimate.
+Project Dimensions:
+${breakdown.join('\n')}
+Estimated Area: ${totalSqFt} sq. ft.
+Indicative Starting Estimate: ₹${estPrice.toLocaleString('en-IN')} (based on ₹110/sq.ft.*)
+
+Please verify the current availability, material specifications, and provide a formal quotation for my home.`;
+
+      const encoded = encodeURIComponent(message);
+      window.open(`https://wa.me/918940354313?text=${encoded}`, '_blank');
+    }
+
+    /* ----------------------------------------------------
+       FAQ Accordion Logic
+       ---------------------------------------------------- */
+    function toggleFaq(btn) {
+      const isExpanded = btn.getAttribute('aria-expanded') === 'true';
+      const content = btn.nextElementSibling;
+      const icon = btn.querySelector('.faq-icon');
+
+      // Close other FAQs for an elegant, calm look
+      document.querySelectorAll('.faq-btn').forEach(otherBtn => {
+        if (otherBtn !== btn) {
+          otherBtn.setAttribute('aria-expanded', 'false');
+          otherBtn.nextElementSibling.classList.add('hidden');
+          otherBtn.querySelector('.faq-icon').textContent = '+';
+          otherBtn.querySelector('.faq-icon').style.transform = 'rotate(0deg)';
+        }
+      });
+
+      if (isExpanded) {
+        btn.setAttribute('aria-expanded', 'false');
+        content.classList.add('hidden');
+        icon.textContent = '+';
+        icon.style.transform = 'rotate(0deg)';
+      } else {
+        btn.setAttribute('aria-expanded', 'true');
+        content.classList.remove('hidden');
+        icon.textContent = '−';
+        icon.style.transform = 'rotate(180deg)';
+      }
+    }
+
+    /* ----------------------------------------------------
+       Modal Management Logic
+       ---------------------------------------------------- */
+    const enquiryModal = document.getElementById('enquiry-modal');
+    const franchiseModal = document.getElementById('franchise-modal');
+    const termsModal = document.getElementById('terms-modal');
+
+    function openEnquiryModal(sourceTag) {
+      document.getElementById('form-source').value = sourceTag || 'Website Navigation';
+      const propertySelect = document.getElementById('user-property');
+      
+      // Auto pre-select based on source context
+      if (sourceTag.includes('Balcony')) propertySelect.value = 'Apartment Balcony';
+      else if (sourceTag.includes('Home')) propertySelect.value = 'Independent Villa';
+      else if (sourceTag.includes('Window')) propertySelect.value = 'Residential Window';
+      else if (sourceTag.includes('Staircase')) propertySelect.value = 'Staircase / Void';
+
+      enquiryModal.classList.remove('hidden');
+      enquiryModal.classList.add('flex');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeEnquiryModal() {
+      enquiryModal.classList.add('hidden');
+      enquiryModal.classList.remove('flex');
+      document.body.style.overflow = '';
+    }
+
+    function openFranchiseModal() {
+      franchiseModal.classList.remove('hidden');
+      franchiseModal.classList.add('flex');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeFranchiseModal() {
+      franchiseModal.classList.add('hidden');
+      franchiseModal.classList.remove('flex');
+      document.body.style.overflow = '';
+    }
+
+    function openTermsModal(type) {
+      const titleEl = document.getElementById('terms-modal-title');
+      const bodyEl = document.getElementById('terms-modal-body');
+
+      if (type === 'privacy') {
+        titleEl.textContent = 'Privacy & Communication Policy';
+        bodyEl.innerHTML = `
+          <p><strong>Your Privacy:</strong> THEO NETS respects your residential privacy. Contact information submitted through our enquiry forms or WhatsApp channels is used solely to respond to your estimate requests, schedule verified site visits, and coordinate installation services.</p>
+          <p>We do not sell, distribute, or share customer contact records with third-party advertising brokers.</p>
+        `;
+      } else if (type === 'pricing') {
+        titleEl.textContent = 'Pricing Terms & Material Scope';
+        bodyEl.innerHTML = `
+          <p><strong>*Indicative Introductory Price (₹110/sq.ft):</strong> Advertised rates represent an indicative baseline for standard openings and are subject to project verification, minimum order sizes, specific anchoring conditions, and component availability.</p>
+          <p>Final binding quotations are provided following physical site inspection and written mutual agreement on material specifications (such as high-tensile marine grade wire diameter, nylon sleeving, and tracking profiles).</p>
+        `;
+      } else {
+        titleEl.textContent = 'Terms of Service';
+        bodyEl.innerHTML = `
+          <p><strong>Installation Suitability:</strong> Invisible grill barrier configurations must be planned in accordance with the host structure, builder guidelines, and residential regulations.</p>
+          <p><strong>Safety Advisory:</strong> While designed as a physical barrier, an invisible grill is not a substitute for active adult supervision or parental care. Regular periodic inspection and maintenance in accordance with guidelines is recommended.</p>
+        `;
+      }
+
+      termsModal.classList.remove('hidden');
+      termsModal.classList.add('flex');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeTermsModal() {
+      termsModal.classList.add('hidden');
+      termsModal.classList.remove('flex');
+      document.body.style.overflow = '';
+    }
+
+    // Modal background click close
+    [enquiryModal, franchiseModal, termsModal].forEach(modal => {
+      modal.addEventListener('click', (e) => {
+        if (e.target === modal) {
+          modal.classList.add('hidden');
+          modal.classList.remove('flex');
+          document.body.style.overflow = '';
+        }
+      });
+    });
+
+    /* ----------------------------------------------------
+       Form Submission & Contextual WhatsApp Dispatch
+       ---------------------------------------------------- */
+    function handleEnquiryFormSubmit(e) {
+      e.preventDefault();
+      const name = document.getElementById('user-name').value;
+      const phone = document.getElementById('user-phone').value;
+      const city = document.getElementById('user-city').value;
+      const property = document.getElementById('user-property').value;
+      const contactPref = document.getElementById('user-contact-pref').value;
+      const notes = document.getElementById('user-notes').value || 'None specified';
+      const source = document.getElementById('form-source').value;
+
+      const message = `Hi THEO NETS, I would like to request a quotation and site measurement for an invisible grill.
+
+Name: ${name}
+Phone: ${phone}
+Location: ${city}
+Property Type: ${property}
+Preferred Contact: ${contactPref}
+Enquiry Origin: ${source}
+Project Details: ${notes}
+
+Please let me know the available time for a site measurement or initial consultation.`;
+
+      const encoded = encodeURIComponent(message);
+      closeEnquiryModal();
+      window.open(`https://wa.me/918940354313?text=${encoded}`, '_blank');
+    }
+
+    /* ----------------------------------------------------
+       Initialization on Window Load
+       ---------------------------------------------------- */
+    window.addEventListener('DOMContentLoaded', () => {
+      calculateTotalEstimate();
+    });
+  </script>
+</body>
+</html>
+```
